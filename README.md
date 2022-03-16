@@ -45,7 +45,7 @@ Build a multiple linear regression model for the prediction of demand for shared
 - Scikit-learn
 
 ## Links to important documents
-- The Python notebook containing 'Bike Sharing Assignment' can be found here (link).
+- The Python notebook containing 'Bike Sharing Assignment' can be found here (https://github.com/suniljadhav/BikeSharingAssignment/blob/9b6263db5c7db17613c7b16b69f52fb2a9bf8c57/Bike%20Sharing%20Assignment.ipynb).
 - The answers to the 'Linear Regression Subjective Questions' can be found here (link)
 
 
