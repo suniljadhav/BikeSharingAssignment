@@ -7,7 +7,7 @@ Build a multiple linear regression model for the prediction of demand for shared
 * [Technologies Used](#technologies-used)
 * [Links to important documents](https://github.com/suniljadhav/BikeSharingAssignment/blob/main/README.md#links-to-important-documents)
 * [Acknowledgements](#acknowledgements)
-* [Contact](url)
+* [Contact](https://github.com/suniljadhav/BikeSharingAssignment/edit/main/README.md#contact)
 
 
 ## General Information
